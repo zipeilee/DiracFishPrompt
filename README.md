@@ -12,4 +12,4 @@ Download using the GitHub .zip download or use git.
 ```bash
 git clone https://github.com/zipeilee/DiracFishPrompt.git 
 ```
-Then place `fish_prompt.fish` in your ~/.config/fish/functions/ directory, then reload fish e.g. `exec fish`
+Then place `fish_prompt.fish` in your ~/.config/fish/functions/ directory, then reload fish e.g. `exec fish`.
