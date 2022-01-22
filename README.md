@@ -5,7 +5,7 @@
 ## Dirac Notation
 >  [From Wikipedia](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation), the free encyclopedia
 
-In quantum mechanics, bra–ket notation, or Dirac notation, is used ubiquitously to denote quantum states. The notation uses angle brackets, ${\displaystyle \langle }\langle$  and ${\displaystyle \rangle }\rangle$ , and a vertical bar ${\displaystyle |}|$, to construct "bras" and "kets".
+In quantum mechanics, bra–ket notation, or Dirac notation, is used ubiquitously to denote quantum states. The notation uses angle brackets,`'⟨'`and `'⟩'`, and a vertical bar `'|'`, to construct "bras" and "kets".
 
 ## Installation
 Download using the GitHub .zip download or use git.
